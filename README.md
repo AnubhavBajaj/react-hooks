@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Trying out hooks namely - 
+1. useState  - Done
+2. useMemo
+3. useCallback
+4. useEffect
 
-Currently, two official plugins are available:
+high level apis
+1. memo
+2. lazy (for loading)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+For State management using context api
+1. useContext
+
+Using Recoil for state management
+1. 
